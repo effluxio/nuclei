@@ -20,12 +20,12 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/clistats v0.0.20
-	github.com/projectdiscovery/fastdialer v0.0.67
-	github.com/projectdiscovery/hmap v0.0.41
-	github.com/projectdiscovery/interactsh v1.1.9
+	github.com/projectdiscovery/fastdialer v0.1.1
+	github.com/projectdiscovery/hmap v0.0.45
+	github.com/projectdiscovery/interactsh v1.2.0
 	github.com/projectdiscovery/rawhttp v0.1.45
-	github.com/projectdiscovery/retryabledns v1.0.58
-	github.com/projectdiscovery/retryablehttp-go v1.0.55
+	github.com/projectdiscovery/retryabledns v1.0.62
+	github.com/projectdiscovery/retryablehttp-go v1.0.63
 	github.com/projectdiscovery/yamldoc-go v1.0.4
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/rs/xid v1.5.0
@@ -81,12 +81,12 @@ require (
 	github.com/projectdiscovery/dsl v0.0.52
 	github.com/projectdiscovery/fasttemplate v0.0.2
 	github.com/projectdiscovery/go-smb2 v0.0.0-20240129202741-052cc450c6cb
-	github.com/projectdiscovery/goflags v0.1.48
+	github.com/projectdiscovery/goflags v0.1.54
 	github.com/projectdiscovery/gologger v1.1.12
 	github.com/projectdiscovery/gostruct v0.0.2
 	github.com/projectdiscovery/gozero v0.0.2
 	github.com/projectdiscovery/httpx v1.6.0
-	github.com/projectdiscovery/mapcidr v1.1.16
+	github.com/projectdiscovery/mapcidr v1.1.34
 	github.com/projectdiscovery/n3iwf v0.0.0-20230523120440-b8cd232ff1f5
 	github.com/projectdiscovery/ratelimit v0.0.35
 	github.com/projectdiscovery/rdap v0.9.1-0.20221108103045-9865884d1917
@@ -94,7 +94,7 @@ require (
 	github.com/projectdiscovery/tlsx v1.1.6
 	github.com/projectdiscovery/uncover v1.0.7
 	github.com/projectdiscovery/useragent v0.0.40
-	github.com/projectdiscovery/utils v0.0.88
+	github.com/projectdiscovery/utils v0.1.1
 	github.com/projectdiscovery/wappalyzergo v0.0.116
 	github.com/redis/go-redis/v9 v9.1.0
 	github.com/seh-msft/burpxml v1.0.1
@@ -142,8 +142,6 @@ require (
 	github.com/docker/cli v24.0.5+incompatible // indirect
 	github.com/docker/docker v24.0.9+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
-	github.com/eapache/channels v1.1.0 // indirect
-	github.com/eapache/queue v1.1.0 // indirect
 	github.com/fatih/color v1.15.0 // indirect
 	github.com/free5gc/util v1.0.5-0.20230511064842-2e120956883b // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
